@@ -17,7 +17,7 @@ body:
       required: true
   - type: input
     id: version
-     attributes:
+    attributes:
       label: Version
       description: Which version were you using when you encountered the bug ?
       placeholder: ex. v0.0.1
